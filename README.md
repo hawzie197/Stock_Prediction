@@ -1,6 +1,6 @@
 # Stock_Prediction
 
-This algorithmn uses linear regression to learn from previous stock trands in order to predict the future stock values. 
+This algorithmn uses linear regression to learn from previous stock trends in order to predict the future stock values. 
 
 If you do not know what linear regression is, here is a short definition and chart example:
 
