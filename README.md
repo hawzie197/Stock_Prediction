@@ -14,10 +14,10 @@ A visual example of linear regression is attached as Linear_Regresion.png
 
 == Necessary Installs ==
 
-pip install pandas
-pip install quandl
-pip install sklearn
-pip install matplotlib
+- pip install pandas
+- pip install quandl
+- pip install sklearn
+- pip install matplotlib
 
 
 == Run File ==
